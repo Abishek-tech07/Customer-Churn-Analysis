@@ -59,7 +59,8 @@ Python was used to:
   - Internet service
 - Validate assumptions before dashboard creation
 
-📷 Screenshot: images/dashboard.png
+📷 
+![Customer Churn Dashboard](./images/dashboard.png)
 
 
 ---
