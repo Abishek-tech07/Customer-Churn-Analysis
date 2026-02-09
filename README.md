@@ -59,7 +59,8 @@ Python was used to:
   - Internet service
 - Validate assumptions before dashboard creation
 
-📷 Screenshot: `images/python_eda.png`
+📷 Screenshot: `<img width="1408" height="791" alt="Screenshot 2026-02-09 201751" src="https://github.com/user-attachments/assets/19668b60-bbfa-4cc7-ad96-1a75ff370acc" />
+`
 
 ---
 
