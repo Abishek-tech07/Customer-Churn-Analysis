@@ -59,7 +59,7 @@ Python was used to:
   - Internet service
 - Validate assumptions before dashboard creation
 
-📷 Screenshot: `<img width="1408" height="791" alt="Screenshot 2026-02-09 201751" src="https://github.com/user-attachments/assets/19668b60-bbfa-4cc7-ad96-1a75ff370acc" />
+📷 Screenshot: `images/https://github.com/Abishek-tech07/Customer-Churn-Analysis/blob/main/images/Screenshot%202026-02-09%20201751.png
 `
 
 ---
