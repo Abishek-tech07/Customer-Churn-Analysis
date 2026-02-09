@@ -1,4 +1,5 @@
 📊 Customer Churn Analysis Dashboard (Power BI + Python)
+
 📌 Project Overview
 
 Customer churn is a critical business problem for subscription-based companies.
@@ -8,7 +9,7 @@ The project demonstrates an end-to-end analytics workflow, starting from data ex
 
 🎯 Objectives
 
-Analyze customer churn behavior using Python
+Analyze customer churn behavior using Python and Excel
 
 Perform exploratory data analysis (EDA)
 
@@ -28,39 +29,39 @@ Target Variable: Churn (Yes / No)
 
 Key Columns
 
-customerID
+1.customerID
 
-tenure
+2.tenure
 
-Contract
+3.Contract
 
-InternetService
+4.InternetService
 
-MonthlyCharges
+5.MonthlyCharges
 
-TechSupport
+6.TechSupport
 
-Churn
+7.Churn,etc
 
 🛠 Tools & Technologies
 
-Python (EDA & preprocessing)
+!Python (EDA & preprocessing)
 
-pandas
+!pandas
 
-numpy
+!numpy
 
-matplotlib
+!matplotlib
 
-seaborn
+!seaborn
 
-Power BI Desktop
+!Power BI Desktop
 
-Power Query
+!Power Query
 
-DAX
+!DAX
 
-Excel
+!Excel
 
 🐍 Python Analysis (EDA & Data Understanding)
 
@@ -121,15 +122,9 @@ Churned Customers
 
 Churn Rate (%)
 
-Image to add here:
-images/kpi_summary.png
-
 2️⃣ Churn Breakdown
 
 Shows the distribution of Active vs Churned customers using a donut chart.
-
-Image to add here:
-images/churn_breakdown.png
 
 3️⃣ Churn Rate by Tenure
 
@@ -149,7 +144,7 @@ Image to add here:
 Highlights churn risk across different contract types.
 
 Image to add here:
-![Customer Churn Dashboard](./images/contract.png)
+![Customer Churn Dashboard](./images/month.png)
 
 5️⃣ Churn Rate by Internet Service
 
@@ -179,9 +174,6 @@ Internet Service
 
 Monthly Charges
 
-Image to add here:
-![Customer Churn Dashboard](./images/dashboard.png)
-
 🧠 Key Insights
 
 Month-to-month contracts have the highest churn rate
@@ -207,4 +199,4 @@ Promote technical support to reduce churn risk
 📷 Full Dashboard Preview
 
 Image to add here:
-images/full_dashboard.png
+![Customer Churn Dashboard](./images/dashboard.png)
